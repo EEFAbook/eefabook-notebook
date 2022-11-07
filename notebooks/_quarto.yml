@@ -9,13 +9,13 @@ project:
 
 format:
   html:
-    theme: spaceman
+    theme: cosmo
     css: styles.css
     toc: true
     toc-depth: 4
 
 website:
-  title: "EEFAbook Notebook"
+  title: "eefabook-notebook"
   site-url: "https://EEFAbook.github.io/eefabook-notebook"
   description: "The EEFAbook content, ported to use the Earth Engine Python API."
   twitter-card: true
@@ -23,24 +23,15 @@ website:
   repo-branch: master
   repo-url: "https://github.com/EEFAbook/eefabook-notebook"
   repo-actions: [issue]
-  reader-mode: true
   navbar:
     background: primary
     search: true
-    left:
-      - text: "Sections"
-        menu:
-          - text: "Section F1: Programming and Remote Sensing Basics"
-            icon: journal-bookmark-fill
-            href: javascript/F1.0.ipynb
     right:
       - icon: github
         href: "https://github.com/EEFAbook/eefabook-notebook"
-      - icon: twitter
-        href: "https://twitter.com/eefabook"
   sidebar:
     style: "floating"
-      
+
 metadata-files: 
   - sidebar.yml
   - custom.yml
