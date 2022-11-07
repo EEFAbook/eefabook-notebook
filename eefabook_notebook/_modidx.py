@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://EEFAbook.github.io',
                 'git_url': 'https://github.com/EEFAbook/eefabook-notebook',
                 'lib_path': 'eefabook_notebook'},
-  'syms': {'eefabook_notebook.core': {'eefabook_notebook.core.foo': ('core.html#foo', 'eefabook_notebook/core.py')}}}
+  'syms': {}}

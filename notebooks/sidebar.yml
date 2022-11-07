@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - text: "Home"
+        href: index.ipynb
+      - text: "Section F1: Programming and Remote Sensing Basics"
+        href: javascript/F1.0.ipynb
