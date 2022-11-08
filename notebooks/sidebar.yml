@@ -2,3 +2,6 @@ website:
   sidebar:
     contents:
       - index.ipynb
+      - section: javascript
+        contents:
+          - javascript/F1.0.ipynb

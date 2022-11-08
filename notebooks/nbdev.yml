@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "eefabook-notebook"
+  site-url: "https://EEFAbook.github.io/eefabook-notebook"
+  description: "The EEFAbook content, ported to use the Earth Engine Python API."
+  repo-branch: master
+  repo-url: "https://github.com/EEFAbook/eefabook-notebook"
