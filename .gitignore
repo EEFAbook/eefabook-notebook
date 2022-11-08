@@ -10,6 +10,7 @@ _site/
 _docs/
 test_settings.ini
 
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
